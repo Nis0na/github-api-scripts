@@ -1,5 +1,5 @@
 # github-api-scripts
-Scripts for collecting data bia GitHub API
+Scripts for collecting data via GitHub API
 
 ```
 $ pip3 install PyGithub
